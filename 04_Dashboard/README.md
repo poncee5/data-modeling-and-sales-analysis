@@ -1,1 +1,1 @@
-
+This folder contains a sample dashboard created to demonstrate how the data model can be used for business analysis and visualization. The dashboard is supplementary to the main data modeling project.
